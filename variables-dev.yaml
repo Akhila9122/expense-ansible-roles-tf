@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-dev.akhila.site
+login_password: ExpenseApp1
+DB_HOST: db-dev.akhila.site
+BACKEND_API_URL: backend.app-dev.akhila.site
+nexus_url: nexus.akhila.site:8081
